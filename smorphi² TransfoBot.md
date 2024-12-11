@@ -134,7 +134,7 @@ Through the video conferencing session, we were given a link:
 - Finally, the toggle switch is turned on, and if all the LEDs in all modules lit up, it was assured that all connections were properly made!
 - After that, the ENABLE button is held for 1 second to activate the robot.
 
-_<h4 align = 'center'> - smorphi² Assembly Complete -_
+_<h4 align = 'center'> - smorphi² Assembly Complete -_ 
 
 
 ### Step #18: Application Connection
