@@ -5,22 +5,6 @@ This transforming robot, developed in collaboration with Wefaa Robotics and Sing
 ## Project Overview
 The SMORPHI² TransfoBot is designed to demonstrate the capabilities of modern robotics and automation through a series of carefully orchestrated assembly steps, utilizing a variety of cutting-edge components and technologies.
 
-## Our Prestigious Mentors
-- Dr. Gyanaranjan Panigrahi
-- Mr. Pritam Nanda
-- Mr. Biswajeeban Mishra
-
-## The Mighty Team
-- Sahil Kumar Chaudhury
-- Tejaswinee Nayak
-- Tanushree Lenka
-- Choudhary Abisant Jena
-- Rudra Narayan Behera
-- Lokesh Patra ★
-- Pallav Palai
-
-> "Every step and procedure was performed in alignment with the guidance of all the mentors and the esteemed panel from Wefaa Robotics, Singapore."
-
 ## Key Features
 - Advanced locomotion capabilities
 - Integration with IoT and Automation
