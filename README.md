@@ -23,6 +23,8 @@ The SMORPHI² TransfoBot is designed to demonstrate the capabilities of modern r
 9. **Battery Connection and Initial Power-Up**
 10. **Application Connection and Sensor Configuration**
 
+[ R E A D H E R E F O R D E T A I L S](https://github.com/lightxLK/Smorphi-TransfoBot/blob/main/smorphi%C2%B2%20TransfoBot.md)
+
 ## Documentation
 Detailed assembly instructions and technical documentation can be found in the `docs/` directory and on the [documentation website](https://smorphi-documentation.readthedocs.io/en/latest/).
 
