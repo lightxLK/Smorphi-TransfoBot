@@ -8,13 +8,11 @@ A transforming robot made in collaboration with **Wefaa Robotics** and **Singapo
 - Mr. Biswajeeban Mishra
 
 ## The Mighty Team:
-- Sahil Kumar Chaudhury
 - Tejaswinee Nayak
 - Tanushree Lenka
-- Choudhary Abisant Jena
 - Rudra Narayan Behera
 - Lokesh Patra ★
-- Pallav Palai
+- Piyush Kumar Sahoo
 
 >_" Every step and procedure was performed in alignment with the guidance of all the mentors and the esteemed panel from Wefaa Robotics, Singapore. "_
 
@@ -151,3 +149,5 @@ _<h4 align = 'center'> - smorphi² Assembly Complete -_
 - After the connection, [a sound sensor code](https://github.com/WefaaRobotics/Smorphi/blob/main/exercise/exercise_10/exercise_10.ino) was uploaded onto the laptop, and then our robot was ready to perform the Sound Sensory Acts.
 
 _<h4 align = 'center'> - Disassembled -_
+
+_<h5 align = 'right'> ~ light_
